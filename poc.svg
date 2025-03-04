@@ -1,0 +1,7 @@
+<!-- This is a test payload for authorized penetration testing only -->
+<svg xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="green"/>
+  <script xmlns="http://www.w3.org/1999/xhtml">
+    parent.console.log('hello');
+  </script>
+</svg>
